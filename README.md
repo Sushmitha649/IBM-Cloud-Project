@@ -1,2 +1,2 @@
 # IBM-Cloud-Project
-IBM Cloud projects and files as well as the complete project pdf file
+This project presents an AI Agent for Smart Farming Advice developed using IBM Watsonx.ai and the Granite foundation model under the IBM Virtual Internship . It uses Retrieval-Augmented Generation (RAG) to provide real-time, localized agricultural guidance by retrieving trusted data from sources like Google, Wikipedia, and weather APIs. The agent helps small-scale farmers make informed decisions on crop selection, fertilizer use, pest control, and market prices in simple, natural language.
